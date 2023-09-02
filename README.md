@@ -1,1 +1,2 @@
 # leader
+i created three files in html file i created in which i created different input box for different vlaues and also created another div which will show the details in css file i gave the styling, in js file i get the div element and button element and added a event listener on button  click then to show the input value i used .innerhtml and to show the value using string literal ${} then created two functions one to sort the input values and another one to delete the details
